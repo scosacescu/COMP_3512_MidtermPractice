@@ -1,5 +1,21 @@
 Topics covered per slide:
-
+1: intro
+2: intro
+3: C++ I/O
+4: Console & I/O, Reference
+5: LR Rule
+6: New, Delete, Classes
+7: Inline functions, default args, default ctor, copy ctor, intro to classes
+8: Destructor, Function overloading
+9: Operator overloading and friends
+10: Matrix lab
+11: Inheritance, Virtual functions, Polymorphism
+12: Abstract Classes, Interfaces
+13: Matrix review, Inheritance code example
+14: In class quiz
+15: Cancelled
+16: Cancelled
+17: Multiple Inheritance, Static
 18: Exceptions
 19: Cancelled
 20: Albert - STL

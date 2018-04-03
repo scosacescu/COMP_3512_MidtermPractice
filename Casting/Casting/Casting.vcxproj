@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{25F92A24-AB1C-4F71-A86F-17794CE68311}</ProjectGuid>
-    <RootNamespace>FilesAndStreams</RootNamespace>
+    <ProjectGuid>{29105B03-4A0C-42AF-95BD-F26AD5E4CE76}</ProjectGuid>
+    <RootNamespace>Casting</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

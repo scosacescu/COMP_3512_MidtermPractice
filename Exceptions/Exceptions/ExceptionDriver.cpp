@@ -89,12 +89,14 @@ int main() {
 	{
 		cout << "Please specify a valid first name" << endl;
 	}*/
+	// A logic_error is the base class of invalid_argument
 	catch (logic_error& e) {
 		cout << "General logic_error found" << endl;
 	}
 	catch(runtime_error& e){
 		cout << "General runtime error found" << endl;
 	}
+	//catch(...) will catch anything, so leave it for last
 	catch (...) 
 	{
 		cout << "General exception caught" << endl;
@@ -102,7 +104,9 @@ int main() {
 
 
 	AssertEx ax;
-	ax.sum(0, 1);
+	ax.sum(0, 1); //pass
+	//ax.sum(0, 0); //fail
+	ax.sum(0, -2);//fail
 
 	system("pause");
 }

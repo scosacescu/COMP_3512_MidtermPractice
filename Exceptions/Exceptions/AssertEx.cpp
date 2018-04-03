@@ -1,4 +1,5 @@
 #include <cassert>
+#include <iostream>
 //#define NDEBUG
 
 class AssertEx {
@@ -9,6 +10,7 @@ public:
 	int sum(int a, int b) {
 		result = a + b;
 		assert(result > 0);
+		std::cout << result << std::endl;
 		return result;
 	}
 

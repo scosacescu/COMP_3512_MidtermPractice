@@ -1,0 +1,35 @@
+Topics covered per slide:
+
+18: Exceptions
+19: Cancelled
+20: Albert - STL
+21: Cancelled
+22: Midterm1 and Lab6
+23: Casting, STL begin
+24: PageRank, Lab6, Casting, STL
+25: STL overview
+26: Templates, Containers
+	Default args, generic printing algorithm, iterator adapter
+27: Template review, Containers
+	Tree quiz here
+	Info on each stl container
+	typedefs for stl containers for consisteency
+	different types of iterators
+
+	Iterator adaptors for streams!
+	Revisit the printing algorithm - final generic copy template
+	Lecture 27 quiz here on a generic maximum function
+
+28: Container review
+	First class containers and container adaptors
+	Comparing and sorting elements
+	typedef review
+	Iterator adaptors for streams
+		Use 2 istream-terators to spcift a range in the constructor for all containers
+			eg read from stdin and write to a set
+	Generic copy template 
+	
+	Algorithms
+
+29: RANDOM
+    STL Algorithms
